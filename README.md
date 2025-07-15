@@ -37,7 +37,7 @@ ____________
 
 An interactive hotspot map was created using Folium to visualize accident density across the United States.
 
-👉 Preview:![image alt]([(https://github.com/AswathyD31/PRODIGY_DS_05/blob/f3a6cccb76c49e99f32f5a0b5163adad5db87bba/hotspot.JPG
+👉 Preview:![image alt]((https://github.com/AswathyD31/PRODIGY_DS_05/blob/f3a6cccb76c49e99f32f5a0b5163adad5db87bba/hotspot.JPG
 )
 
 ## Key Insights
